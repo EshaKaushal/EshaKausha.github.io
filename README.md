@@ -1,2 +1,1 @@
-# EshaKaushal.github.io
-theme: minima
+# EshaKaushal
